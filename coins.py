@@ -5,7 +5,6 @@ def run_coins():
     # get quarters
     quarters = total//25
     total = 0 if total <= 0 else total % 25
-    print(total)
     # get dimes
     dimes = total//10
     total = 0 if total <= 0 else total % 10
