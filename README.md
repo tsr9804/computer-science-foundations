@@ -1,2 +1,2 @@
 # computer-science-foundations-python
-Completed programming assignments for the python based CS foundations course
+Completed programming assignments in Python & C++ foundations
